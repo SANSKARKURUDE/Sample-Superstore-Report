@@ -54,8 +54,8 @@ This project involves the use of the **Sample Superstore Dataset**, a fictional 
 - Integrate additional datasets for a more comprehensive analysis.
 
 ## **Acknowledgments**
-<a href="">Sample Superstore Report</a>
-- Tools: Microsoft Power BI
+<a href="https://github.com/SANSKARKURUDE/Sample-Superstore-Report/blob/main/Sample%20-%20Superstore.xlsx">Sample Superstore Report</a>
+- Tools Used: Microsoft Power BI
 
 Feel free to reach out with any questions or feedback about the project!
 
